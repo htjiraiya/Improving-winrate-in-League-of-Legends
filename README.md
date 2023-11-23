@@ -1,15 +1,15 @@
 # Improving-winrate-in-League-of-Legends
 
-### hệ thống thu thập và phân tích dữ liệu giúp cải thiện tỉ lệ thắng trong League of Legends
+### A system to collect and analyze data to improve the win rate in League of Legends
 
-### cách cài đặt:
+### How to install:
 
-#### nâng cấp pip
+#### Upgrade pip: `python -m pip install --upgrade pip`
 
-#### cài đặt thư viện trong requirements.txt: pip install -r requirements.txt
+#### Install the libraries in requirements.txt:: `pip install -r requirements.txt`
 
 #### [cài đặt airflow](https://www.geeksforgeeks.org/how-to-install-apache-airflow/)
 
-#### cấu hình lại trong config.json
+#### Configure in `config.json`
 
-#### duy chuyển các file trong thư mục dags của project sang thư mục dags của airflow
+#### Move the files in the dags folder of the project to the dags folder of airflow
