@@ -8,7 +8,7 @@
 
 #### Install the libraries in requirements.txt:: `pip install -r requirements.txt`
 
-#### [cài đặt airflow](https://www.geeksforgeeks.org/how-to-install-apache-airflow/)
+#### [Install airflow](https://www.geeksforgeeks.org/how-to-install-apache-airflow/)
 
 #### Configure in `config.json`
 
