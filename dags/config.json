@@ -1,0 +1,5 @@
+{
+    "URL": "https://www.op.gg/statistics/champions?region=vn&period=day&position=&tier=platinum",
+    "CONNECTION_STRING": "your connect string here",
+    "CONTAINER_NAME": "your container here"
+}
